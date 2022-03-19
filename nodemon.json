@@ -1,0 +1,10 @@
+{
+    "env": {
+        "PORT": 4500,
+        "NODE_ENV": "development",
+        "MONGO_USER": "guest",
+        "MONGO_PASS": "guest12345",
+        "MONGO_DB": "wiki",
+        "JWT_SECRET": "kingsland"
+    }
+}
